@@ -1,0 +1,19 @@
+id_issue,summary,to_do,in_progress,done,from_status,to_status
+PPJ-9,Tarefa de desenvolvimento 008,,,2019-01-30T15:57:06.522-0200,In Progress,Done
+PPJ-4,Tarefa de desenvolvimento 003,,,2019-01-30T17:46:59.403-0200,To Do,Done
+PPJ-9,Tarefa de desenvolvimento 008,,,2019-01-30T12:48:22.863-0200,To Do,Done
+PPJ-10,Tarefa de desenvolvimento 009,,2019-01-30T17:46:52.892-0200,,To Do,In Progress
+PPJ-9,Tarefa de desenvolvimento 008,,2019-01-30T12:48:05.619-0200,,To Do,In Progress
+PPJ-9,Tarefa de desenvolvimento 008,,2019-01-30T15:57:05.111-0200,,To Do,In Progress
+PPJ-6,Tarefa de desenvolvimento 005,,2019-01-30T17:47:21.255-0200,,To Do,In Progress
+PPJ-7,Tarefa de desenvolvimento 006,,2019-01-30T17:47:29.705-0200,,To Do,In Progress
+PPJ-3,Tarefa de desenvolvimento 002,2019-01-30T17:47:14.011-0200,,,To Do,To Do
+PPJ-5,Tarefa de desenvolvimento 004,2019-01-30T17:46:42.453-0200,,,To Do,To Do
+PPJ-6,Tarefa de desenvolvimento 005,2019-01-30T17:46:30.742-0200,,,To Do,To Do
+PPJ-12,Issue Teste #002,2019-01-30T18:27:12.299-0200,,,To Do,To Do
+PPJ-2,Tarefa de desenvolvimento 001,2019-01-30T17:47:10.669-0200,,,To Do,To Do
+PPJ-9,Tarefa de desenvolvimento 008,2019-01-30T15:57:02.049-0200,,,Done,To Do
+PPJ-9,Tarefa de desenvolvimento 008,2019-01-30T12:48:21.211-0200,,,In Progress,To Do
+PPJ-11,Issue teste,2019-01-30T18:26:14.185-0200,,,To Do,To Do
+PPJ-8,Tarefa de desenvolvimento 007,2019-01-30T17:46:46.615-0200,,,To Do,To Do
+PPJ-1,I-932,2019-01-30T17:47:07.147-0200,,,To Do,To Do
